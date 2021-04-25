@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 **Who Am I** <br />
-I Am [BG_OFFICIAL](http://telegram.dog/BG_OFFICIAL)
-_Loading..._
+I Am [BG_OFFICIAL](http://telegram.dog/BG_OFFICIAL)<br />
+_More Details are Loading..._ <br />
 
 Join Telegram Channel [a link](https://telegram.dog/BG_OFFICIAL_CHANNEL)
 <!--
