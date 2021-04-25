@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Join Telegram Channel [a link](https://telegram.dog/BG_OFFICIAL_CHANNEL)
 <!--
 **BotGram-OFFICIAL/BotGram-OFFICIAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
